@@ -1,6 +1,6 @@
 # (Xg)-Boosting-the-vaccination
 
-## Baseline - study publihsed in 2023.
+## Baseline - study published in 2023.
 
 _A sample was comprised of 347 participants (42.1% male) from the general population in Serbia, aged between 19 and 54 years (M = 29.98, SD = 9.42). The data for this study were gathered online in April 2021, approx three months after the commencement of vaccination in Serbia. The majority of participants were students (45%) or held a university degree (25.6%), while the rest completed primary or secondary school._
 
